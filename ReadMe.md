@@ -40,7 +40,6 @@ I'm always open to opportunities where I can contribute as a QA specialist, QA m
 ### 🔹 Shonen Lock  
 **Roles:** Ex-Community Lead & Producer
 
-
 ---
 
 ### 🔹 Huzz RNG (Anime Girl RNG) 
@@ -82,6 +81,8 @@ I'm always open to opportunities where I can contribute as a QA specialist, QA m
 **Role:** Producer & Developer & QA Manager
 
 ---
+
+
 
 ### 👥 Game Studios:
 
