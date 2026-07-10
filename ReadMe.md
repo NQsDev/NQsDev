@@ -21,7 +21,7 @@ I'm always open to opportunities where I can contribute as a QA specialist, QA m
 -Support & Staff Management 📋 <br>
 -Testing & QA 🧪 <br>
 -Team Leadership & Administration 🧑‍💼 <br>
--Data Analyst & 
+-Data Analyst 📊 <br>
 
 ### 📜 Projects:
 
@@ -64,7 +64,7 @@ I'm always open to opportunities where I can contribute as a QA specialist, QA m
 ---
 
 ### 🔹Blue Lock: Rivals
-**Role:** Tester
+**Role:** Ex-Tester
 
 ---
 
@@ -78,9 +78,36 @@ I'm always open to opportunities where I can contribute as a QA specialist, QA m
 
 ---
 
+### 🔹 Go Catch!
+**Role:** Producer & Developer & QA Manager
+
+---
+
+### 👥 Game Studios:
+
+---
+
+### 🔹 Basket Entertainment
+**Position:** Co-Director & Data Analyst 
+
+---
+
+### 🔹 Inter Studios
+**Positions:** Lead
+
+---
+
+### 🔹 IX Studios
+**Position:** Acquisition Executive
+
+---
+
+### 🔹 World Entertainment
+**Position:** Executive Producer 
+
+---
+
 📬 Contact Me
 
 Discord: nqsdev  
 Email: bidobidoswg@gmail.com
-
-💼 I'm currently open to freelance work, commissions, staff positions/Management, Tester, or long-term dev teams. If you're building something awesome — let's connect!
