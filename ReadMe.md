@@ -88,22 +88,22 @@ I'm always open to opportunities where I can contribute as a QA specialist, QA m
 ---
 
 ### 🔹 Basket Entertainment
-**Position:** Co-Director & Data Analyst 
+**Position:** Ex-Co-Director & Data Analyst 
 
 ---
 
 ### 🔹 Inter Studios
-**Positions:** Lead
+**Positions:** Ex-Lead
 
 ---
 
 ### 🔹 IX Studios
-**Position:** Acquisition Executive
+**Position:** Ex-Acquisition Executive
 
 ---
 
 ### 🔹 World Entertainment
-**Position:** Executive Producer 
+**Position:** Ex-Executive Producer 
 
 ---
 
