@@ -53,7 +53,7 @@ I'm always open to opportunities where I can contribute as a QA specialist, QA m
 ---
 
 ### 🔹 Driving Empire
-**Role:** Trial Moderator
+**Role:** Ex-Staff
 
 ---
 
@@ -81,7 +81,10 @@ I'm always open to opportunities where I can contribute as a QA specialist, QA m
 **Role:** Producer & Developer & QA Manager
 
 ---
+### 🔹 Cut a Gem
+**Role:** Data Analyst & Game Team member (Assistant Manager & Producer) 
 
+---
 
 
 ### 👥 Game Studios:
@@ -107,6 +110,9 @@ I'm always open to opportunities where I can contribute as a QA specialist, QA m
 **Position:** Ex-Executive Producer 
 
 ---
+
+### 🔹Wendigo Studios
+**Position:** Producer (For a specfic game in developmeent only)
 
 📬 Contact Me
 
